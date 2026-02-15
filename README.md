@@ -160,7 +160,7 @@ Build a complete AI-powered application featuring:
 
 ## Course Delivery Format
 
-**Duration:** 6 modules (approximately 6-8 weeks)
+**Duration:** 6 modules
 
 **Structure:**
 - Concept explanation with real-world context
